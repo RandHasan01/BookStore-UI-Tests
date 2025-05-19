@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-19T14:27:33 GMT+03:00" name="Default suite" finished-at="2025-05-19T14:27:47 GMT+03:00" duration-ms="13570">
+    <groups>
+    </groups>
+    <test started-at="2025-05-19T14:27:33 GMT+03:00" name="Default test" finished-at="2025-05-19T14:27:47 GMT+03:00" duration-ms="13570">
+      <class name="TestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:TestCases@6492fab5]" started-at="2025-05-19T14:27:33 GMT+03:00" name="mySetup" finished-at="2025-05-19T14:27:36 GMT+03:00" duration-ms="2819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="addBook()[pri:1, instance:TestCases@6492fab5]" started-at="2025-05-19T14:27:36 GMT+03:00" name="addBook" finished-at="2025-05-19T14:27:40 GMT+03:00" duration-ms="3521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="getBook()[pri:2, instance:TestCases@6492fab5]" started-at="2025-05-19T14:27:40 GMT+03:00" name="getBook" finished-at="2025-05-19T14:27:43 GMT+03:00" duration-ms="2915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBook -->
+        <test-method signature="deleteBook()[pri:3, instance:TestCases@6492fab5]" started-at="2025-05-19T14:27:43 GMT+03:00" name="deleteBook" finished-at="2025-05-19T14:27:44 GMT+03:00" duration-ms="1243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteBook -->
+        <test-method is-config="true" signature="closeTheWebsit()[pri:0, instance:TestCases@6492fab5]" started-at="2025-05-19T14:27:44 GMT+03:00" name="closeTheWebsit" finished-at="2025-05-19T14:27:47 GMT+03:00" duration-ms="2987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheWebsit -->
+      </class> <!-- TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
